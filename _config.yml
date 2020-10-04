@@ -22,9 +22,9 @@ title      : Hyperket
 email      : ewrt101@gmail.com #this is also the email contact forms will go to
 description: "A VR based marketplace"
 author     : Hyperket
-logo:     #optional, defaults to site title
-  path: assets\img\clients\creative-market.jpg
-  height: 60 #height in px, defaults to 52px
+#logo:     #optional, defaults to site title
+#  path: assets\img\clients\creative-market.jpg
+#  height: 60 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
