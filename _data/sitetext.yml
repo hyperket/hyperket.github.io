@@ -10,7 +10,7 @@ services:
     section: services
     list:
       - title: "[Explore](/Explore)"
-        desc: "Expore the stores and showcases that are in the world of Hyperket. who know what you wil find."
+        desc: "Expore the stores and showcases that are in the world of Hyperket. who know what you will find."
         icon: fas fa-gamepad #find more at https://fontawesome.com/icons
       - title: "[Store](/Store)"
         desc: "Have something you want to sell. just make a store and get it placed in the world for people to explore."
