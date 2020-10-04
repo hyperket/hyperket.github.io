@@ -9,15 +9,15 @@ services:
     text: ""
     section: services
     list:
-      - title: "Explore"
+      - title: "[Explore](/Explore)"
         desc: "Expore the stores and showcases that are in the world of Hyperket. who know what you wil find."
         icon: fas fa-gamepad #find more at https://fontawesome.com/icons
-      - title: "Store"
-        desc: "Have something you wanna sell. just make a store and get it placed in the world for people to explore."
+      - title: "[Store](/Store)"
+        desc: "Have something you want to sell. just make a store and get it placed in the world for people to explore."
         icon: fas fa-shopping-cart     
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Showcase](/Store)"
+        desc: "Just want to show off something cool, you can do that here too."
+        icon: fas fa-building
 
 portfolio:
     title: "Portfolio"
