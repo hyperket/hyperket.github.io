@@ -19,7 +19,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Hyperket
 #ico        : "assets\img\Logo.ico"
-email      : f/ewrt101@gmail.com #this is also the email contact forms will go to
+email      : ewrt101@gmail.com #this is also the email contact forms will go to
+link       : /f/mjvpknrg
 description: "A VR based marketplace"
 author     : Hyperket
 #logo:     #optional, defaults to site title
