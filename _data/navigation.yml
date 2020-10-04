@@ -2,14 +2,14 @@ nav:
   - title: "Services"
     section: services
 
-  - title: "Portfolio"
-    section: portfolio
+  - title: "Explore"
+    url: /Explore
+
+  - title: "Store"
+    url: /Store
     
   - title: "About"
     section: timeline
-
-  - title: "Team"
-    section: team
 
   - title: "Contact"
     section: contact
