@@ -1,6 +1,6 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to HyperKet
+    text: A brand new VR based marketplace
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
