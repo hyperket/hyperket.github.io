@@ -27,18 +27,18 @@ portfolio:
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "A very loose timeline"
     section: timeline
     events:
       - title: "The Idea"
         year: "June 2020"
-        desc: "the idea came about while playing other games"
+        desc: "The idea came about while playing other games"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
       - title: "A Plan was made"
         year: "July 2020"
-        desc: "with the help of the great sage the idea was fleshed out and a plan was made. Work was started"
+        desc: "With the help of the great sage the idea was fleshed out and a plan was made. Work was started"
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
