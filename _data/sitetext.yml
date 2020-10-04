@@ -20,8 +20,8 @@ services:
         icon: fas fa-building
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Features"
+    text: "Here is a list of current Features and some WIP ones"
     section: portfolio
     
 
