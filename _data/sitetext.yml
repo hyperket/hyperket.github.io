@@ -97,7 +97,7 @@ team:
             icon: fab fa-discord
       - name: "Greedy"
         role: "Great sage"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/greedy.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
