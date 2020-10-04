@@ -15,4 +15,4 @@ nav:
     section: contact
 
   - title: "Login"
-    button: Tell Me More
+    url: /login
