@@ -61,7 +61,7 @@ about:
     text: "our story"
     section: about
 
-clients:
+clients: 
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
