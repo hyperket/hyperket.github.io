@@ -30,31 +30,31 @@ timeline:
     text: "Lorem ipsum timeline"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The Idea"
+        year: "June 2020"
+        desc: "the idea came about while playing other games"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "A Plan was made"
+        year: "July 2020"
+        desc: "with the help of the great sage the idea was fleshed out and a plan was made. Work was started"
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "The Name"
+        year: "september 2020"
+        desc: "The name was decided on and so marked the birth of **Hyperket**"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+      #- title: "Title"
+      #  year: "2009-2011"
+      #  desc: "Your description here, **Markdown** is fully supported."
+      #  image: assets/img/timeline/4.jpg
+      #  alt: 
+      #  align: right
+    end: "Who knows what will come next"
 
 about:
     title: "About Us"
@@ -124,16 +124,10 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/hyperket
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://discord.gg/X9MhEGr
+          icon: fab fa-discord
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
