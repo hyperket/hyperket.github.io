@@ -81,8 +81,8 @@ clients:
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "job titles are fun"
+    subtext: all jokes aside we are actually here for a reason
     section: team
     people:
       - name: "dan (ewrt)"
@@ -105,16 +105,16 @@ team:
             icon: fab fa-facebook-f
           - url: https://discord.gg/X9MhEGr
             icon: fab fa-discord
-      - name: ""
-        role: ""
-        image: 
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://discord.gg/X9MhEGr
-            icon: fab fa-discord
+      #- name: ""
+      #  role: ""
+      #  image: 
+      #  social:
+      #    - url: https://twitter.com
+      #      icon: fab fa-twitter
+      #    - url: https://facebook.com
+      #      icon: fab fa-facebook-f
+      #    - url: https://discord.gg/X9MhEGr
+      #      icon: fab fa-discord
           
 contact:
     title: "Contact Us"
