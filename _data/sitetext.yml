@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "Explore"
