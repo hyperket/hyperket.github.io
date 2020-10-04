@@ -18,12 +18,13 @@ url    : "http://hyperket.com" # the base hostname & protocol for your site, e.g
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Hyperket
+ico        : "assets\img\Logo.ico"
 email      : ewrt101@gmail.com #this is also the email contact forms will go to
 description: "A VR based marketplace"
-author     : ewrt
-logo:     #optional, defaults to site title
-  path: assets\img\clients\creative-market.jpg
-  height: 60 #height in px, defaults to 52px
+author     : Hyperket
+ #logo:     #optional, defaults to site title
+ #  path: assets\img\clients\creative-market.jpg
+ #  height: 60 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
