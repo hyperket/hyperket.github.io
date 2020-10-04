@@ -35,3 +35,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
