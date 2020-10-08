@@ -6,32 +6,17 @@ title: Contact
 	<h2 class="section-heading text-uppercase">Contacts</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
 
-**PERSONAL INFORMATION WE COLLECT**
+**Main**
 
-{% if site.analytics.google %}
+For Any general querys email <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+For any busines querys email <a href="mailto:dan@hyperket.com">dan@hyperket.com</a>
 
-Automatically Collected (Google Analytics):
+**People**
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+Dan (ewrt) <a href="mailto:dan@hyperket.com">dan@hyperket.com</a>
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+**Special people**
+These people are people that have been a big help for one or more reasions in the pass
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
-
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
-
-{% else %}
-
-We do not collect any data about you or use any cookies.
-
-{% endif %}
-
-**CHANGES**
-
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
-
-**CONTACT US**
-
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Great sage (Greedy) <a href="mailto:GreatSage@hyperket.com">GreatSage@hyperket.com</a>
