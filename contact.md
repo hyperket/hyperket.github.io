@@ -15,7 +15,7 @@ For any busines querys email <a href="mailto:dan@hyperket.com">dan@hyperket.com<
 
 **People**
 
-Dan (ewrt) <a href="mailto:dan@hyperket.com">dan@hyperket.com</a>
+Dan (ewrt). Lead Everything <a href="mailto:dan@hyperket.com">dan@hyperket.com</a>
 
 **Special people**
 
