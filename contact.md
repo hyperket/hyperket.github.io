@@ -19,6 +19,6 @@ Dan (ewrt). Lead Everything <a href="mailto:dan@hyperket.com">dan@hyperket.com</
 
 **Special people**
 
-These people are people that have been a big help for one or more reasions in the pass
+These people are people that have been a big help for one or more reasons in the pass
 
 Great sage (Greedy) <a href="mailto:GreatSage@hyperket.com">GreatSage@hyperket.com</a>
