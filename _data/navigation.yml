@@ -12,7 +12,7 @@ nav:
     section: timeline
 
   - title: "Contact"
-    section: /contact
+    url: /contact
 
   - title: "Login"
     url: /login
