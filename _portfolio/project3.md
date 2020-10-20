@@ -1,12 +1,12 @@
 ---
 title: Multiplayer
 subtitle: Everything is better with firends.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+image: /assets/img/protfolio/users-solid.png
 alt: 
 
 caption:
   title: Multiplayer
   subtitle: Planned
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: /assets/img/protfolio/users-solid.png
 ---
 This is planned  for the future.
