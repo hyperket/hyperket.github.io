@@ -7,7 +7,7 @@ alt: Keep Exploring
 caption:
   title: Explore
   subtitle: WIP
-  thumbnail: fas fa-users
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 The open world.....
 

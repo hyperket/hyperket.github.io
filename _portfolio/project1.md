@@ -7,6 +7,6 @@ alt: ;)
 caption:
   title: Stores
   subtitle: WIP
-  thumbnail: fas fa-users
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
 With the use of the Store System....
