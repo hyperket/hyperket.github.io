@@ -1,12 +1,12 @@
 ---
 title: Multiplayer
 subtitle: Everything is better with firends.
-image: ../img/protfolio/users-solid.png
-alt: 
+image: ./assets/img/portfolio/users-solid.png
+alt: https://fontawesome.com/icons/users?style=solid
 
 caption:
   title: Multiplayer
   subtitle: Planned
-  thumbnail: ../img/portfolio/users-solid.png
+  thumbnail: ./assets/img/portfolio/users-solid.png
 ---
 This is planned  for the future.
