@@ -7,6 +7,6 @@ alt:
 caption:
   title: Multiplayer
   subtitle: Planned
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: fas fa-users
 ---
 This is planned  for the future.
