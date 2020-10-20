@@ -1,12 +1,12 @@
 ---
 title: Stores
 subtitle: Stores for all.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: ;)
+image: ./assets/img/portfolio/store-alt-solid.png
+alt: https://fontawesome.com/icons/store-alt?style=solid
 
 caption:
   title: Stores
   subtitle: WIP
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: ./assets/img/portfolio/store-alt-solid.png
 ---
 With the use of the Store System....
