@@ -7,6 +7,6 @@ alt:
 caption:
   title: Multiplayer
   subtitle: Planned
-  thumbnail: ../img/protfolio/users-solid.png
+  thumbnail: ../img/portfolio/users-solid.png
 ---
 This is planned  for the future.
