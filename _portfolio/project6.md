@@ -1,8 +1,8 @@
 ---
 title: Community
 subtitle: Its all about the people.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
-alt: ./assets/img/portfolio/globe-asia-solid.png
+image: ./assets/img/portfolio/globe-asia-solid.png
+alt: https://fontawesome.com/icons/globe-asia?style=solid 
 
 caption:
   title: Community
