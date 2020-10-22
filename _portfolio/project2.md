@@ -1,13 +1,13 @@
 ---
 title: Explore
 subtitle: The world is your oyster.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+image: ./assets/img/portfolio/globe-asia-solid.png
+alt: https://fontawesome.com/icons/globe-asia?style=solid
 
 caption:
   title: Explore
   subtitle: WIP
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: ./assets/img/portfolio/globe-asia-solid.png
 ---
 The open world.....
 
