@@ -9,4 +9,6 @@ caption:
   subtitle: Planned
   thumbnail: ./assets/img/portfolio/users-solid.png
 ---
-This is planned  for the future.
+This is planned for the future.
+
+Users will be able to meetup with friends and explore and shop togother.

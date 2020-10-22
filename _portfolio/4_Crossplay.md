@@ -9,6 +9,8 @@ caption:
   subtitle: Planned
   thumbnail: ./assets/img/portfolio/vr-cardboard-solid.png
 ---
+This is planned for the future.
+
 VR users and non VR users will be able to play togother.
 
 If any other platforms are added out hope is to also add them to the CrossPlay.
