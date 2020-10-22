@@ -1,8 +1,8 @@
 ---
 title: Explore
 subtitle: The world is your oyster.
-image: ./assets/img/portfolio/globe-asia-solid.png
-alt: https://fontawesome.com/icons/rocket-solid.png
+image: ./assets/img/portfolio/rocket-solid.png
+alt: https://fontawesome.com/icons/rocket?style=solid
 
 caption:
   title: Explore

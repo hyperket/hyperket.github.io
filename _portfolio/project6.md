@@ -2,7 +2,7 @@
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
-alt: 
+alt: https://fontawesome.com/icons/globe-asia?style=solid 
 
 caption:
   title: Window
