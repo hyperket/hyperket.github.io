@@ -3,10 +3,10 @@ nav:
     section: services
 
   - title: "Explore"
-    url: /Explore
+    url: /WIP
 
   - title: "Store"
-    url: /Store
+    url: /WIP
     
   - title: "About"
     section: timeline
@@ -15,4 +15,4 @@ nav:
     url: /contact
 
   - title: "Login"
-    url: /login
+    url: /WIP
