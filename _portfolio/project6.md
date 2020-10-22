@@ -1,18 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Community
+subtitle: Its all about the people.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
-alt: https://fontawesome.com/icons/globe-asia?style=solid 
+alt: ./assets/img/portfolio/globe-asia-solid.png
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Community
+  subtitle: Join the Discord
+  thumbnail: ./assets/img/portfolio/globe-asia-solid.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+We are striving to build a big and loving community so people can have a safe place to chill and make friends.
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-
+join the discord it would mean a lot:
+https://discord.gg/X9MhEGr
