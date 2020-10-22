@@ -1,13 +1,13 @@
 ---
 title: CrossPlay
 subtitle: No friend left behind.
-image: vr-cardboard-solid.png
+image: ./assets/img/portfolio/vr-cardboard-solid.png
 alt: https://fontawesome.com/icons/vr-cardboard?style=solid
 
 caption:
   title: CrossPlay
   subtitle: Planned
-  thumbnail: vr-cardboard-solid.png
+  thumbnail: ./assets/img/portfolio/vr-cardboard-solid.png
 ---
 VR users and non VR users will be able to play togother.
 
