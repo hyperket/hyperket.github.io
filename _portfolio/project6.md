@@ -12,4 +12,4 @@ caption:
 We are striving to build a big and loving community so people can have a safe place to chill and make friends.
 
 join the discord it would mean a lot:
-https://discord.gg/X9MhEGr
+[JOIN!](https://discord.gg/X9MhEGr)
