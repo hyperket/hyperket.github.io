@@ -11,4 +11,4 @@ caption:
 ---
 This is planned for the future.
 
-Users will be able to meetup with friends and explore and shop togother.
+Users will be able to meetup with friends and explore shop and worlds togother.
