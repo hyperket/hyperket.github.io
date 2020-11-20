@@ -1,8 +1,8 @@
 header:
     title: Welcome to HyperKet
     text: A VR based marketplace
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    button: Join The Discord
+    buttonlink: "https://discord.gg/X9MhEGr" #"#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
